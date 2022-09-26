@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oikos-loves-you/static/css/main.15541483.css",
-    "main.js": "/oikos-loves-you/static/js/main.2372a0cb.js",
+    "main.css": "/oikos-loves-you/static/css/main.543b11c0.css",
+    "main.js": "/oikos-loves-you/static/js/main.d7a4786d.js",
     "static/js/787.5b41a18c.chunk.js": "/oikos-loves-you/static/js/787.5b41a18c.chunk.js",
     "static/media/logo.svg": "/oikos-loves-you/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/oikos-loves-you/index.html",
-    "main.15541483.css.map": "/oikos-loves-you/static/css/main.15541483.css.map",
-    "main.2372a0cb.js.map": "/oikos-loves-you/static/js/main.2372a0cb.js.map",
+    "main.543b11c0.css.map": "/oikos-loves-you/static/css/main.543b11c0.css.map",
+    "main.d7a4786d.js.map": "/oikos-loves-you/static/js/main.d7a4786d.js.map",
     "787.5b41a18c.chunk.js.map": "/oikos-loves-you/static/js/787.5b41a18c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15541483.css",
-    "static/js/main.2372a0cb.js"
+    "static/css/main.543b11c0.css",
+    "static/js/main.d7a4786d.js"
   ]
 }
